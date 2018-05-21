@@ -1,9 +1,11 @@
 ## Welcome to the CEDAR-to-NCBI data Submission Pipeline
 
-**Introduction**
+**Introduction**  
+
 The CEDAR-to-NCBI pipeline helps investigators and curators to edit and validate ontology-controlled metadata, and it provides a seamless interface to transmit datasets to the NCBI from the CEDAR Workbench. The CEDAR-to-NCBI pipeline may improve quality of metadata hosted by the NCBI and accelerate the broader goal of data FAIRness. Furthermore, this pipeline can be adapted to other NCBI and non-NCBI repositories.
 
-**Do you have a CEDAR login?**
+**Do you have a CEDAR login?**  
+
 We assume you have already obtained an account on the system you will be submitting on ( CEDAR production https://cedar.metadatacenter.edu. If you want to test submission to the NCBI (either their test system, or their production system), you will also need a BioProject already set up. (Soon CEDAR will allow you to create a BioProject, but not quite yet!)
 
 **We have made NCBI submission process simple for you.**
