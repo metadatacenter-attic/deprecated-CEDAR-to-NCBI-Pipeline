@@ -1,7 +1,5 @@
 ## Welcome to the CEDAR-to-NCBI data Submission Pipeline
 
-Aiming to bring high-quality metadata at the NCBI
-
 **Introduction**
 The CEDAR-to-NCBI pipeline helps investigators and curators to edit and validate ontology-controlled metadata, and it provides a seamless interface to transmit datasets to the NCBI from the CEDAR Workbench. The CEDAR-to-NCBI pipeline may improve quality of metadata hosted by the NCBI and accelerate the broader goal of data FAIRness. Furthermore, this pipeline can be adapted to other NCBI and non-NCBI repositories.
 
