@@ -6,7 +6,7 @@ The CEDAR-to-NCBI pipeline helps investigators and curators to edit and validate
 
 **Do you have a CEDAR login?**  
 
-We assume you have already obtained an account on the system you will be submitting on ( CEDAR production https://cedar.metadatacenter.edu. If you want to test submission to the NCBI (either their test system, or their production system), you will also need a BioProject already set up. (Soon CEDAR will allow you to create a BioProject, but not quite yet!)
+We assume you have already obtained an account at CEDAR. However, if you do not have one, you can create it [CEDAR Signup](https://auth.metadatacenter.org/auth/realms/CEDAR/login-actions/registration?client_id=cedar-angular-app).
 
 **We have made NCBI submission process simple for you.**
 
@@ -26,4 +26,4 @@ To be Updated
 
 ### Support or Contact
 
-Having trouble with NCBI submission process through our pipeline? Please email to [Syed Ahmad Chan Bukhari](mailto:jgraybeal@yale.edu) or to [John Graybeal](mailto:jgraybeal@stanford.edu) and we’ll help you sort it out.
+Having trouble with NCBI submission process through our pipeline? Please email to [Syed Ahmad Chan Bukhari](mailto:ahmad.chan@yale.edu) or to [John Graybeal](mailto:jgraybeal@stanford.edu) and we’ll help you sort it out.
