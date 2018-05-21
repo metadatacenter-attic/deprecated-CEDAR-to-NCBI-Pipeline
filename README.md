@@ -10,7 +10,7 @@ We assume you have already obtained an account on the system you will be submitt
 
 **We have made NCBI submission process simple for you.**
 
-1- Click on this link [CEDAR-to-NCBI Pipeline] (https://cedar.metadatacenter.org/dashboard?folderId=https:%2F%2Frepo.metadatacenter.net%2Ffolders%2Fe9eeb4a3-449b-4f4b-9db6-fd353d56501f). This will take you to the CEDAR login-in panel.
+1- Click on this link [CEDAR-to-NCBI Pipeline](https://cedar.metadatacenter.org/dashboard?folderId=https:%2F%2Frepo.metadatacenter.net%2Ffolders%2Fe9eeb4a3-449b-4f4b-9db6-fd353d56501f). This will take you to the CEDAR login-in panel.
 
 2- If you are new user user, you have to create an account.
 
