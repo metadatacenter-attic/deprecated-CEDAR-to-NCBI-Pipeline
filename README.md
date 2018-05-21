@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to the CEDAR-to-NCBI data Submission Pipeline
 
-You can use the [editor on GitHub](https://github.com/metadatacenter/cedar-to-ncbi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aiming to bring high-quality metadata at the NCBI
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Introduction**
+The CEDAR-to-NCBI pipeline helps investigators and curators to edit and validate ontology-controlled metadata, and it provides a seamless interface to transmit datasets to the NCBI from the CEDAR Workbench. The CEDAR-to-NCBI pipeline may improve quality of metadata hosted by the NCBI and accelerate the broader goal of data FAIRness. Furthermore, this pipeline can be adapted to other NCBI and non-NCBI repositories.
 
-### Markdown
+**Do you have a CEDAR login?**
+We assume you have already obtained an account on the system you will be submitting on ( CEDAR production (https://cedar.metadatacenter.edu. If you want to test submission to the NCBI (either their test system, or their production system), you will also need a BioProject already set up. (Soon CEDAR will allow you to create a BioProject, but not quite yet!)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**We have made NCBI submission process simple for you.**
 
-```markdown
-Syntax highlighted code block
+1- Click on this link [CEDAR-to-NCBI Pipeline] (https://cedar.metadatacenter.org/dashboard?folderId=https:%2F%2Frepo.metadatacenter.net%2Ffolders%2Fe9eeb4a3-449b-4f4b-9db6-fd353d56501f). This will take you to the CEDAR login-in panel.
 
-# Header 1
-## Header 2
-### Header 3
+2- If you are new user user, you have to create an account.
 
-- Bulleted
-- List
+3- After login into the system, you will see CEDAR-NCBI template.
 
-1. Numbered
-2. List
+4- Right click on the template (CEDAR-NCBI)  file and click on the “populate” option from menu.
 
-**Bold** and _Italic_ and `Code` text
+5- Try to enter metadata for the Tissue, Cell type and organism fields to see how these are controlled through ontologies.
 
-[Link](url) and ![Image](src)
-```
+### Cite CEDAR-to-NCBI Pipeline
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/metadatacenter/cedar-to-ncbi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To be Updated
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with NCBI submission process through our pipeline? Please email to [Syed Ahmad Chan Bukhari](mailto:jgraybeal@yale.edu) or to [John Graybeal](mailto:jgraybeal@stanford.edu) and we’ll help you sort it out.
